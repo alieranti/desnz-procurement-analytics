@@ -5,7 +5,6 @@ Department for Energy Security & Net Zero (DESNZ) across calendar year 2024:
 a full SQL data pipeline (clean → profile → model) feeding an interactive
 Power BI dashboard, with a written set of findings and recommendations.
 
-**Live dashboard:** _[paste your Publish-to-Web link here]_
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
